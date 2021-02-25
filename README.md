@@ -1,2 +1,2 @@
 # arc64
-Code and discussions we don't like to expose to the rest of the world
+Code and discussions for initial ARCv3/ARC64 bringup!
